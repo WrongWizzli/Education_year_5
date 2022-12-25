@@ -1,0 +1,1 @@
+The project is about Steam game score review classification (>= 85% positive votes) based on its web-page in the shop. It includes everything from parsing the web-pages content up to building classification method.

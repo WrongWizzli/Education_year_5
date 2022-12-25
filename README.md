@@ -4,3 +4,6 @@ Most influential code written in year 1 master education. My education archive (
 
 ## Content:
 * **DL HPC**: tasks from supercomputer academy (deep learning)
+* **Netlogo**: natural parallel models
+* **Applied ML**: basic principles of ML analysis in a one project
+* **MPI Parallel Programs**: MPI parallel programming

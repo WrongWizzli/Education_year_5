@@ -1,0 +1,6 @@
+{
+    "do_augment": false,
+    "do_triplet": false,
+    "do_soft_labels": true,
+    "y_threshold": 85
+}
