@@ -7,3 +7,4 @@ Most influential code written in year 1 master education. My education archive (
 * **Netlogo**: natural parallel models
 * **Applied ML**: basic principles of ML analysis in a one project
 * **MPI Parallel Programs**: MPI parallel programming
+* **OpenSHMEM_GRAPH**: OpenSHMEM implementation of Brandes algorithm. Memory and process - scalable
